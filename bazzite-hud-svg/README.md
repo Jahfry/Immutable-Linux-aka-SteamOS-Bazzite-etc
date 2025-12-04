@@ -19,6 +19,12 @@ NOTE: This will automatically update the display when the system detects a new u
 
 ---
 
+Example image:
+
+![bazzite-status.svg](https://github.com/Jahfry/Immutable-Linux-aka-SteamOS-Bazzite-etc/blob/main/bazzite-hud-svg/bazzite-status.svg)
+
+---
+
 ## Step 1: User-Level Setup
 *These steps do not require sudo.*
 
