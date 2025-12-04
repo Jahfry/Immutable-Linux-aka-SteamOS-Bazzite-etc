@@ -22,5 +22,6 @@ Description=Regenerate Bazzite OSTree Status Image
 
 [Service]
 Type=oneshot
-ExecStart=%h/.local/bin/bazzite-hud-svg.sh
+# We explicitly call bash to avoid execution errors
+ExecStart=/usr/bin/bash %h/.local/bin/bazzite-hud-svg.sh
 
