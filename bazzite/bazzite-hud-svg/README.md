@@ -24,22 +24,10 @@ This will update on new upgrades being available and on reboot. It will *not* au
 ### Option 1: Quick Download (Archive)
 
 1. Download **[bazzite-hud.20251204.tar.gz](./bazzite-hud.20251204.tar.gz)**.
-2. Extract the archive:
+2. Extract the archive to a temporary location:
     ```bash
     tar -xzf bazzite-hud.20251204.tar.gz
     ```
-3. Go to the Install and Load section
-
-### Option 2: Manual Download
-
-Or ... download the files individually.
-
-* [bazzite-hud-svg.sh](./bazzite-hud-svg.sh)
-* [bazzite-hud.user.service](./bazzite-hud.user.service)
-* [bazzite-hud.user.timer](./bazzite-hud.user.timer)
-* [bazzite-hud-trigger.system.service](./bazzite-hud-trigger.system.service)
-* [bazzite-hud-trigger.system.path](./bazzite-hud-trigger.system.path)
-
 ## Install and Load
 
 ```bash
